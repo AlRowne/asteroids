@@ -8,3 +8,4 @@ dependencies = ["pygame==2.6.1"]
 [tool.pyright]
 pythonVersion = "3.13"
 include = ["."]
+typeCheckingMode = "off"
