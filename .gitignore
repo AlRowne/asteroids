@@ -12,3 +12,6 @@ wheels/
 # Logfile
 
 game_state.jsonl
+
+# Claude
+.claude
